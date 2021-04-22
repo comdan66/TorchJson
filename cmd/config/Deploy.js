@@ -8,11 +8,10 @@
 module.exports = {
   github: {
     type: 'github',
-
-    account: null,
-    repository: null,
-    // branch: 'gh-pages',
-    // message: '🚀 部署！',
+    account: 'comdan66',
+    repository: 'TorchJson',
+    branch: 'gh-pages',
+    message: '🚀 部署！',
   },
 
   s3: {
